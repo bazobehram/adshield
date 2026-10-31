@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AdShield</string>
+    <string name="vpn_service_title">AdShield DNS Protection</string>
+    <string name="vpn_service_running">AdShield is actively protecting your DNS queries</string>
+    <string name="vpn_service_paused">AdShield DNS protection paused</string>
+    <string name="action_stop">Stop</string>
+    <string name="channel_id">adshield_vpn_channel</string>
+    <string name="channel_name">AdShield Protection Status</string>
+</resources>

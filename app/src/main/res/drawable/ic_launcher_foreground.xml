@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Glow Accent -->
+    <path
+        android:fillColor="#153FB950"
+        android:pathData="M54,23 C66,23 76,28 78,34 C78,52 68,69 54,77 C40,69 30,52 30,34 C32,28 42,23 54,23 Z" />
+
+    <!-- Solid Shield Base (Emerald Green) -->
+    <path
+        android:fillColor="#2EA043"
+        android:pathData="M54,26 C64,26 73,30 75,35 C75,50 66,65 54,73 C42,65 33,50 33,35 C35,30 44,26 54,26 Z" />
+
+    <!-- Inner Shield Cavity (Deep Dark) -->
+    <path
+        android:fillColor="#0D1117"
+        android:pathData="M54,30 C61.5,30 68,33 70,37 C70,48.5 63,60.5 54,67 C45,60.5 38,48.5 38,37 C40,33 46.5,30 54,30 Z" />
+
+    <!-- Center Emblem: Crisp Stylized Privacy Checkmark / Crest -->
+    <path
+        android:fillColor="#3FB950"
+        android:pathData="M51.5,56 L44,48.5 L46.8,45.7 L51.5,50.4 L61.2,40.7 L64,43.5 Z" />
+
+</vector>
