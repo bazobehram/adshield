@@ -66,4 +66,4 @@ These keep AdShield fast and battery-friendly — PRs that break them will be as
 
 Open an issue using the bug report template. For security issues, see [SECURITY.md](SECURITY.md).
 
-By contributing you agree that your contributions are licensed under the [MIT License](LICENSE).
+By contributing you agree that your contributions are licensed under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE).

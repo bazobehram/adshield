@@ -8,7 +8,7 @@ Blocks ads, trackers, malware and phishing domains system-wide — no root, no r
 [![Android CI](../../actions/workflows/android.yml/badge.svg)](../../actions/workflows/android.yml)
 ![Min SDK](https://img.shields.io/badge/minSdk-26-green)
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.0-purple)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![License](https://img.shields.io/badge/license-GPLv3-blue)
 
 <img src="docs/screenshots/dashboard.png" width="220" alt="Dashboard"/>
 <img src="docs/screenshots/logs.png" width="220" alt="Traffic logs"/>
@@ -112,4 +112,4 @@ Contributions are very welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) t
 
 ## License
 
-[MIT](LICENSE) — blocklists are provided by their respective maintainers under their own licenses.
+This project is free software licensed under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE) — blocklists are provided by their respective maintainers under their own licenses.
