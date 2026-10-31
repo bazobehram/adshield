@@ -60,8 +60,8 @@ Grab the latest APK from [Releases](../../releases) (or the `app-debug` artifact
 Requirements: JDK 17, Android SDK (API 35), a device or emulator with USB debugging.
 
 ```bash
-git clone https://github.com/<your-user>/AdShield.git
-cd AdShield
+git clone https://github.com/bazobehram/adShield.git
+cd adShield
 ./gradlew :app:assembleDebug
 ./scripts/deploy.sh -d          # or -e for emulator; Windows: .\scripts\deploy.ps1 -d
 ```
